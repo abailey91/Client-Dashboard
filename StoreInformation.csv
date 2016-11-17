@@ -1,0 +1,22 @@
+Store Name,Region,Postcode,Lat,Lng,Store_Type
+Croydon,Greater London,CR0 4UZ,51.379884,-0.12387927,Superstore
+Tottenham,Greater London,N18 3HF,51.609962,-0.048535033,Superstore
+Lakeside,Greater London,RM20 3WJ,51.482412,0.28494187,Superstore
+Wembley,Greater London,NW10 0TH,51.553945,-0.25983464,Superstore
+Milton Keynes,Midlands,MK1 1QB ,52.005306,-0.72897382,Superstore
+Birmingham,Midlands,WS10 9SF,52.56968,-2.0156255,Superstore
+Nottingham,Midlands,NG16 2RP,53.002931,-1.2821237,Superstore
+Coventry,Midlands,CV1 3AZ,52.407827,-1.5186011,Superstore
+Manchester,North West,OL6 7TE,53.49069,-2.1012892,Superstore
+Warrington,North West,WA5 7TY,53.416398,-2.6284317,Superstore
+Belfast,Northern Ireland,BT3 9EJ ,53.416398,-8,Superstore
+Glasgow,Scotland,G51 4FB,55.868022,-4.3587572,Superstore
+Edinburgh,Scotland,"EH20 9PW,",55.884631,-3.1628629,Superstore
+Leeds,North East,WF17 9AE,53.744204,-1.6469515,Superstore
+Gateshead,North East,NE11 9XS,54.961836,-1.6778912,Superstore
+Bristol,South West,BS5 6XX,51.473094,-2.5671211,Superstore
+Southampton,South West,SO15 1GY,50.901462,-1.4108269,Superstore
+Cardiff,Wales,CF11 0XR,51.462813,-3.1892536,Superstore
+Norwich,East of England,NR6 5DH,52.651399,1.2594807,Order and Collection Point
+Reading,South East,RG31 7SG,51.441525,-1.063731,Superstore
+Aberdeen,Scotland,AB12 3QW,57.110036,-2.0959043,Order and Collection Point
